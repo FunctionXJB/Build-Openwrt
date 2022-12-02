@@ -16,3 +16,6 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#echo 'src-git UA2F https://github.com/EOYOHOO/UA2F' >>feeds.conf.default
+#echo 'src-git rkpipid https://github.com/EOYOHOO/rkp-ipid' >>feeds.conf.default
+echo 'src-git campusNetwork https://github.com/FunctionXJB/Campus-network' >>feeds.conf.default
